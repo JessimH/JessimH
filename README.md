@@ -11,7 +11,7 @@
 
 - 📫 contactez moi sur **jessim.h1@hotmail.fr**
 
-- 📄 Cv : [https://mjm-webdesign.com/~dv19heddadi/assets/images/Cv_Heddadi_Jessim.png](https://mjm-webdesign.com/~dv19heddadi/assets/images/Cv_Heddadi_Jessim.png)
+- 📄 Cv : [https://cutt.ly/OhNXo6V)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
