@@ -7,7 +7,7 @@
 
 - 👨‍💻 Retrouvez mon portfolio complet sur: [https://mjm-webdesign.com/~dv19heddadi/index.html](https://mjm-webdesign.com/~dv19heddadi/index.html)
 
-- 🤝 Retrouvez moi sur Malt : [https://www.malt.fr/profile/jessimheddadi?q=Jessim+Heddadi&searchid=5fe0fa2252c9e47fa61df49e](https://www.malt.fr/profile/jessimheddadi?q=Jessim+Heddadi&searchid=5fe0fa2252c9e47fa61df49e)
+- 🤝 Retrouvez moi sur Malt : [https://cutt.ly/RhNXsJr](https://www.malt.fr/profile/jessimheddadi?q=Jessim+Heddadi&searchid=5fe0fa2252c9e47fa61df49e)
 
 - 📫 contactez moi sur **jessim.h1@hotmail.fr**
 
