@@ -7,11 +7,11 @@
 
 - 👨‍💻 Retrouvez mon portfolio complet sur: [https://mjm-webdesign.com/~dv19heddadi/index.html](https://mjm-webdesign.com/~dv19heddadi/index.html)
 
-- 🤝 Retrouvez moi sur Malt : [https://cutt.ly/RhNXsJr](https://www.malt.fr/profile/jessimheddadi?q=Jessim+Heddadi&searchid=5fe0fa2252c9e47fa61df49e)
+- 🤝 Retrouvez moi sur Malt : [MALT](https://cutt.ly/RhNXsJr)
 
 - 📫 contactez moi sur **jessim.h1@hotmail.fr**
 
-- 📄 Cv : [https://cutt.ly/OhNXo6V)
+- 📄 Cv : [Heddadi Jessim](https://cutt.ly/OhNXo6V)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
