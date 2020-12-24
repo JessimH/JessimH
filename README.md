@@ -1,5 +1,5 @@
 <h1 align="center">Salut 👋, je m'appelles Jessim</h1>
-<h3 align="center">Un développeur frontend Français 🇫🇷</h3>
+<h3 align="center">Un développeur Français 🇫🇷</h3>
 
 - 🔭 Je travail actuellement sur [LittlexGarden](https://littlexgarden.com/)
 
