@@ -1,17 +1,17 @@
 <h1 align="center">Salut 👋, je m'appelles Jessim</h1>
 <h3 align="center">Un développeur Français 🇫🇷</h3>
 
-- 🔭 Je travail actuellement sur [LittlexGarden](https://littlexgarden.com/)
+- 🔭  Je travail actuellement sur [LittlexGarden](https://littlexgarden.com/)
 
-- 🌱 J'apprend actuellement **la "MERN stack", MongoDb - React.js - Express - Node.js**
+- 🌱  J'apprend actuellement **la "MERN stack", MongoDb - React.js - Express - Node.js**
 
-- 👨‍💻 Retrouvez mes différents projets sur mon: [Portfolio](https://cutt.ly/qhNXlPo)
+- 👨‍ 💻 Retrouvez mes différents projets sur mon: [Portfolio](https://cutt.ly/qhNXlPo)
 
-- 🤝 Retrouvez moi sur Malt : [MALT](https://cutt.ly/RhNXsJr)
+- 🤝  Retrouvez moi sur Malt : [MALT](https://cutt.ly/RhNXsJr)
 
-- 📫 contactez moi sur **jessim.h1@hotmail.fr**
+- 📫  contactez moi sur **jessim.h1@hotmail.fr**
 
-- 📄 Cv : [Heddadi Jessim](https://cutt.ly/OhNXo6V)
+- 📄  Cv : [Heddadi Jessim](https://cutt.ly/OhNXo6V)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
