@@ -1,13 +1,9 @@
 <h1 align="center">Salut 👋, je m'appelles Jessim</h1>
 <h3 align="center">Un développeur Français 🇫🇷</h3>
 
-- 👨‍ 💻 Retrouvez mes différents projets sur mon: [Portfolio](https://jessim-heddadi.netlify.app/)
-
 - 🤝  Retrouvez moi sur Malt : [MALT](https://cutt.ly/RhNXsJr)
 
 - 📫  contactez moi sur **jessim.h1@hotmail.fr**
-
-- 📄  Cv : [Heddadi Jessim](https://jessim-heddadi.netlify.app/assets/images/Cv_Heddadi_Jessim.png)
 
 <h3 align="left">Mes réseaux sociaux:</h3>
 <p align="left">
