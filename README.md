@@ -1,9 +1,8 @@
 ### Hi there 👋, my name is Jessim
-#### I am French developer 🇫🇷
-![I am French developer 🇫🇷](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![](https://i.ibb.co/q7jNxCs/banner.png)
 
 
-Skills: VUE JS / REACT / JS / HTML / CSS / PHP / PYTHON
+Skills: VUE JS / REACT / JS / CSS / PHP / PYTHON
 
 - 🔭 I’m currently working on my own social network 
 - 🌱 I’m currently learning Machine learning and IOS developement 
