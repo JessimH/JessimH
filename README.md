@@ -15,20 +15,17 @@ Skills: VUE JS / REACT / JS / CSS / PHP / PYTHON
 - ⚡ Fun fact: j'adooooore les sushis 🍣 
 
 
-<h2>🔌 Connect with me <img src="https://komarev.com/ghpvc/?username=ryihan&label=Profile%20views&color=0e75b6&style=flat" alt="aalhabib001" /></h2>
+<h2>🔌 Connect with me </h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/raihan-miah-889171190/">
+  <a href="https://www.linkedin.com/in/jessim-heddadi-962734177/">
     <img align="center" src="https://github.com/ryihan/ryihan-material/blob/main/Icon/linkedin.svg" alt="linkedin" />
   </a>
-  <a href="https://instagram.com/ryihan55">
+  <a href="https://www.instagram.com/jessimheddadi/">
     <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Instagram/instagram.svg" alt="instagram" />
   </a>
-  <a href="mailto:ryihan55@gmail.com">
+  <a href="mailto:jessim.h1@hotmail.fr">
     <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Gmail/gmail.svg" alt="gmail" />
-  </a>
-  <a href="https://stackoverflow.com/users/13554586/growbing-development-inc">
-    <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Stackoverflow/stackoverflow.svg" alt="stackoverflow" />
   </a>
 </p>
 
