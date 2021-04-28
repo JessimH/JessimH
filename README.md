@@ -31,8 +31,6 @@ Skills: VUE JS / REACT / JS / CSS / PHP / PYTHON
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JessimH)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JessimH&show_icons=true)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=JessimH)  
 
 ![Profile views](https://gpvc.arturio.dev/JessimH)  
