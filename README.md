@@ -4,7 +4,7 @@
 </h1>
 ![Profile views](https://gpvc.arturio.dev/JessimH)  
 
-![](https://i.ibb.co/q7jNxCs/banner.png)
+
 
 
 Skills: VUE JS / REACT / JS / CSS / PHP / PYTHON
@@ -13,6 +13,8 @@ Skills: VUE JS / REACT / JS / CSS / PHP / PYTHON
 - 🌱 I’m currently learning Machine learning with Python, IOS developement with Swift and Mobile developement with React Native
 - 📫 How to reach me: jessim.h1@hotmail.fr 
 - ⚡ Fun fact: j'adooooore les sushis 🍣 
+
+![](https://i.ibb.co/q7jNxCs/banner.png)
 
 
 <h2>🔌 Connect with me </h2>
