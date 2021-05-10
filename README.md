@@ -2,10 +2,6 @@
   Welcome to Jessim's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
-![Profile views](https://gpvc.arturio.dev/JessimH)  
-
-
-
 
 Skills: VUE JS / REACT / JS / CSS / PHP / PYTHON
 
