@@ -5,7 +5,7 @@
 
 Skills: VUE JS / REACT / JS / CSS / PHP / PYTHON
 
-- 🔭 I’m currently working on my own social network 
+- 🔭 I’m currently working on my own social network (trying to connect peoples with sport)
 - 🌱 I’m currently learning IOS developement with Swift and Mobile developement with React Native
 - 📫 How to reach me: jessim.h1@hotmail.fr 
 - ⚡ Fun fact: j'adooooore les sushis 🍣 
