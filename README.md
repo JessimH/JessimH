@@ -3,10 +3,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-Skills: REACT ( + native ) / VUE / JS / CSS / PHP (+ Laravel) / PYTHON
+Skills: REACT Native / REACT / VUE / SCSS / PHP (+ Laravel)
 
 - 🔭 I’m currently working on my own social network (trying to connect peoples with sport)
-- 🌱 I’m currently learning IOS developement with Swift and Mobile developement with React Native
 - 📫 How to reach me: jessim.h1@hotmail.fr 
 - ⚡ Fun fact: j'adooooore les sushis 🍣 
 
