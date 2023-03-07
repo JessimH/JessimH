@@ -9,7 +9,7 @@ Skills: REACT / REACT Native / VUE / SCSS / PHP (+ Laravel)
 - 📫 How to reach me: jessim.h1@hotmail.fr 
 - ⚡ Fun fact: j'adooooore les sushis 🍣 
 
-![](https://ibb.co/QXPFhSv)
+![](https://i.ibb.co/Km2jB4x/IMG-1228.jpg)
 
 
 <h2>🔌 Connect with me </h2>
