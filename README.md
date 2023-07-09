@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-Skills: REACT / REACT Native / VUE / SCSS / PHP (+ Laravel)
+Skills: VUE / NUXT / REACT / REACT Native / SCSS
 
 - 🔭 I’m currently working on my own social network (trying to connect peoples with sport)
 - 📫 How to reach me: jessim.h1@hotmail.fr 
