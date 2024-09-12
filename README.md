@@ -7,7 +7,6 @@ Skills: VUE / NUXT / REACT / REACT Native / SCSS
 
 - 🔭 I’m currently working on my own social network (trying to connect peoples with sport)
 - 📫 How to reach me: jessim.h1@hotmail.fr 
-- ⚡ Fun fact: j'adooooore les sushis 🍣 
 
 ![](https://i.ibb.co/Km2jB4x/IMG-1228.jpg)
 
